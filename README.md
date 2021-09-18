@@ -25,6 +25,6 @@ Also shown on the graph image above, in general, urban cities have total fees, r
 
 # Summary
 
-The average riding distance should be relatively shorter when comparing Urban vs Non-urban city types. There are already too many drivers in the Urban areas, where each drivers are not getting enough customers or rides. We also have to put into the factor whether these customers are traveling within the city types. (urban > urban, rural > rural) or if they are intercrossing the city types. 
+The average riding distance should be relatively shorter when comparing Urban vs Non-urban city types, or it would even factor in the long distance trips. We also have to put into the factor whether these customers are traveling within the city types. (urban > urban, rural > rural) or if they are intercrossing the city types. 
 Most likely, many urban cities have subway, bus, or even airline transportation, and many of the riders take ride-sharing services so they could travel to rural/suburban areas from the urban areas. I believe the CEO should increase the drivers in the urban areas, so there would be more drivers available for urban -> rural/suburban area trips. 
 Also, many of the suburban or rural area people would most likely have a car, and would only use the ride sharing services when they are traveling long distance or overseas, so if CEO would like to make any move on the profit model, he/she should increase more drivers in the urban areas. 
